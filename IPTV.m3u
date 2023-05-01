@@ -40,9 +40,9 @@ http://159.75.85.63:35455/douyu/3916618
 #EXTINF:-1 tvg-name="斗鱼4K电影" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/9deb93fa33fb4d9eb2a9bc30a465404c_big.jpg" group-title="4K频道",斗鱼4K电影
 http://159.75.85.63:35455/douyu/9249162
 #EXTINF:-1 tvg-name="咪咕体育-4K-HLG源" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="4K频道",咪咕体育-4K-HLG源
-http://cache.ott.fifalive.itv.cmvideo.cn/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3&version=1.0&owaccmark=3000000010000005180&owchid=FifastbLive&owsid=7958671682942711391&AuthInfo=%2FiwmsVINMSbC1RJajE%2B28Si7VoebO2ylKq8f0%2Fhc%2BqKKn2k8fmYOkjFMlcjRcJQuZ3I%2BWAUlL%2BAx3aHY5xALVA%3D%3D
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="咪咕体育-4K源-2" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/mg4k.png" group-title="4K频道",咪咕体育-4K源-2
-http://cache.ott.fifalive.itv.cmvideo.cn/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3&version=1.0&owaccmark=3000000010000015686&owchid=FifastbLive&owsid=5503131682942848824&AuthInfo=%2FiwmsVINMSbC1RJajE%2B28Re29YxuTrJDC%2B104R85vi%2FZFwp10qvnKdhDr44NY%2FSUE2p7ij6Q8mPyX3xQLC7mMQ%3D%3D
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="江苏8K测试" tvg-name="江苏8K测试" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/js8k.png" group-title="4K/8K-IPV6",江苏8K测试
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-name="CCTV8K测试" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K/8K-IPV6",CCTV8K测试
